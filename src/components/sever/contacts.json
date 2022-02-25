@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "prenom": "Fatou ",
+      "nom": "gueye",
+      "numero": "779958858"
+    },
+    {
+      "id": 2,
+      "prenom": "hassimou",
+      "nom": "Diallo",
+      "numero": "779958858"
+    },
+    {
+      "id": 3,
+      "nom": "ndiaye",
+      "prenom": "alpie wyyeyyew",
+      "numero": "779958858"
+    },
+    {
+      "id": 4,
+      "prenom": "wirgo",
+      "nom": "voyge",
+      "numero": "779958858"
+    },
+    {
+      "id": 5,
+      "nom": "fall",
+      "prenom": "alpix le con",
+      "numero": "779958858"
+    },
+    {
+      "id": 6,
+      "nom": "ly",
+      "prenom": "cherif irlande",
+      "numero": "0750040073"
+    }
+  ]
+}
